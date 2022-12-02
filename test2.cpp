@@ -6,4 +6,5 @@ void doAction()
     std::cout << "new FUNC Update\n";
 
     std::cout << "UPDATE IN MASTER";
+    std::cout << "Master Commit 2";
 }
